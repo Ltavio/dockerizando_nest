@@ -16,6 +16,12 @@
     <img alt="Repository pulls" src="https://img.shields.io/github/issues-pr/angelogluz/NestJS-Nestjs-query.svg">
 </p>
 
+## 💻 Participantes
+<a href="https://github.com/Ltavio">Lucas Mendes</a> &nbsp;
+
+<a href="https://github.com/juliane-28">Juliane Lessa</a> &nbsp;
+
+<a href="https://github.com/viniciusEspindolaa">Vinicius Espindola</a> &nbsp;
 
 ## 🔐 Pré requisitos
 
